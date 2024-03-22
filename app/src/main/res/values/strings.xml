@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Layouts</string>
+    <string name="todo">TODO</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="back">Back</string>
+    <string name="lrem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="offer">offer :</string>
+    <string name="website">Website: http//</string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Receive Messages</string>
+    <string name="submit">Submit</string>
+    <string name="scroll">scroll</string>
+    <string name="starbucks_logo">Starbucks Logo</string>
+    <string name="back_buttn">Back</string>
+</resources>
