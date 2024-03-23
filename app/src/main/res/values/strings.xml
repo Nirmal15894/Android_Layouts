@@ -12,4 +12,19 @@
     <string name="scroll">scroll</string>
     <string name="starbucks_logo">Starbucks Logo</string>
     <string name="back_buttn">Back</string>
+    <string name="team">Team Image</string>
+    <string name="epl">EPL\n</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Sri Lanka</item>
+        <item>Nepal</item>
+        <item>Australia</item>
+        <item>Newzealand</item>
+        <item>Germany</item>
+        <item>Sweden</item>
+        <item>England</item>
+        <item>USA</item>
+    </string-array>
 </resources>
