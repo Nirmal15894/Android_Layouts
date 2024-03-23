@@ -25,6 +25,7 @@ class TeamsAdapter(
     }
 
     override fun getItemId(position: Int): Long {
+        TODO("Not yet implemented")
     }
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
