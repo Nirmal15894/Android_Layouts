@@ -16,8 +16,20 @@
         android:theme="@style/Theme.AndroidLayouts"
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
+
+        <service
+            android:name=".IntentServiceExample"
+            android:exported="false" />
+        <service
+            android:name=".ClassicServiceExample"
+            android:enabled="true"
+            android:exported="true" />
+
         <activity
-            android:name=".WebActivity"
+            android:name=".IntentWelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BroadcastActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

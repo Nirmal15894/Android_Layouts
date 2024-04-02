@@ -7,16 +7,9 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="com.example.androidlayouts.BlankFragment"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-         />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-         />
-
+        android:layout_height="wrap_content" />
 </androidx.appcompat.widget.LinearLayoutCompat>
